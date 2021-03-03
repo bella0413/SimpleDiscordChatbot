@@ -20,3 +20,7 @@ npm install
 ```bash
 npm run dev
 ```
+<br>
+<img src="https://user-images.githubusercontent.com/51810552/109789420-a8241980-7c53-11eb-80d0-742a0dd1160a.PNG">
+<img width="500px" src="https://user-images.githubusercontent.com/51810552/109789427-aa867380-7c53-11eb-8511-39fee8bf2ee1.PNG">
+<img src="https://user-images.githubusercontent.com/51810552/109789431-ac503700-7c53-11eb-881f-02096f639835.PNG">
